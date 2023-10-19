@@ -8,14 +8,11 @@ If you have any questions about this Privacy Policy or related matters, please c
 ## 1.Information we collect
 When we or our third-party partners provide services, we may collect, store, and use the following information related to you.If you do not provide relevant information, you may not be able to register as our user or enjoy certain services we provide, or may not achieve the intended effect of the relevant services.
 ## 2.Storage of Information
-**2.1 Information storage methods and duration**
-* We will store your information in a secure manner, including local storage (such as using APP for data caching), database, and server logs.
-* Generally, we will only store your personal information for the time necessary to achieve the purpose of the service or under the conditions stipulated by laws and regulations.
-**2.2 Geographic regions for information storage**
-* We will store the personal information of users collected within China in accordance with laws and regulations.
-* Currently, we will not transfer or store your personal information across borders.If we need to transfer or store your personal information across borders in the future, we will inform you of the purpose of the information transfer, the recipient, security measures, and security risks, and obtain your consent.
-**2.3 Notification of product or service discontinuation**
-*   When our products or services cease to operate, we will notify you in the form of push notifications, announcements, etc., and delete your personal information or anonymize it within a reasonable period of time, unless otherwise stipulated by laws and regulations.
+This application doesn’t:
+
+* Collect or use any personal information;
+* Store any personal data;
+* Share it to third parties.
 ## 3.Information Security
 We use various security technologies and procedures to prevent the loss, improper use, unauthorized access or disclosure of information.For example, in some services, we will use encryption technology (such as SSL) to protect the personal information you provide.However, please understand that due to technical limitations and various malicious means that may exist, it is impossible to always ensure 100% security of information in the Internet industry, even if we do our best to strengthen security measures.You need to understand that the systems and communication networks you use to access our services may have problems due to factors outside our control.
 ## 4.How do we use information
