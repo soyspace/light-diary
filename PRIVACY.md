@@ -4,7 +4,6 @@ Effective Date: **2023/10/19**
 ## Introduction
 _light diary_ is a product provided by _soyspace_ (hereinafter referred to as "we").When you use our services, we may collect and use your relevant information.We hope to explain to you through this Privacy Policy how we collect, use, store and share this information when using our services, as well as the ways we provide you with access, update, control and protection of this information.This Privacy Policy is closely related to the _light diary_ service you use, and we hope you read it carefully and make the appropriate choices as needed.We try to use concise and concise expressions in this Privacy Policy and provide links for further explanation, so that you can understand it better.
 **By using or continuing to use our services, you agree to our collection, use, storage, and sharing of your relevant information in accordance with this Privacy Policy.**
-If you have any questions about this Privacy Policy or related matters, please contact us at **xuechang2000@hotmail.com**.
 ## 1.Information we collect
 When we or our third-party partners provide services, we may collect, store, and use the following information related to you.If you do not provide relevant information, you may not be able to register as our user or enjoy certain services we provide, or may not achieve the intended effect of the relevant services.
 ## 2.Storage of Information
